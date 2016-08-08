@@ -1,0 +1,32 @@
+_repo: Poems-by-Emily-Dickinson-Third-Series_12241
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickinson, Emily
+    alias: Dickinson, Emily Elizabeth
+    birthdate: 1830
+    deathdate: 1886
+    gutenberg_agent_id: '996'
+    url: http://www.gutenberg.org/2009/agents/996
+    wikipedia: http://en.wikipedia.org/wiki/Emily_Dickinson
+  editor:
+    agent_name: Todd, Mabel Loomis
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '997'
+    url: http://www.gutenberg.org/2009/agents/997
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12241'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+- GITenberg
+title: Poems by Emily Dickinson, Third Series
+url: http://www.gutenberg.org/ebooks/12241
